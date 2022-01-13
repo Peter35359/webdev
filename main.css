@@ -1,0 +1,32 @@
+/*-----------------------------
+name:main.css
+version 1.0
+----------------------------------
+Table of Content
+    01.navbar
+    02.slider
+    03.about us
+    ---------------------*/
+    body{
+        font-family:"muli",sans-serif;
+        height:500px;
+    }
+    /*===============================
+    [01].navbar
+    =================================*/
+    .navbar{
+        background-color: #2b2c2c !important;
+        padding:25px 0;
+    }
+    .navbar .nav-item{
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0 20px;
+    }
+    .navbar .nav-item .navlink{
+        color:#7d9792;
+    
+    }
+    .back{
+        background-color: aqua;
+    }
