@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- this is the beginning of root tag-->
+<html>
+   <!--start of head-->
+<head>
+        <title>peter kigen</title>
+    <link rel='stylesheet'href="main.css">
+   <link rel="stylesheet"href="style.css">
+</head>
+    <!--end of heading-->
+<!--start of body-->
+    <body class="back">
+        
+        <h1 class="kigen">heading</h1>
+        <h2>heading</h2>
+        <div class="rose">
+        <div class="peter">
+        <h3>heading</h3>
+        <h4>heading</h4>
+        </div>
+        <h5>heading</h5>
+        <h6 class="peter"> heading </h6>
+        <h7>heading 7</h7>
+        <div class="New">
+        <p>paragraph<!--i wanna hide this--></p>
+        </div>
+        </div>
+    </body>
+    <!--end of body-->
+</html>
+<!--this is the eng of the root tag-->
